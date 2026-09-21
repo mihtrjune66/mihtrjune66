@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mihtrjune66/mihtrjune66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there :wave: I'm Tri Tran 🌱
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst · Lifelong Learner · Self-awareness Advocate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Turning+curiosity+into+insight;Learning%2C+growing%2C+and+staying+curious" alt="Typing introduction" />
+
+</div>
+
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+## A little about me
+
+- 🔭 I'm aiming to work as a **Data Analyst**
+- 🥅 Personal growth starts with **self-awareness**.
+
+<br clear="right" />
+
+## My direction
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+
+### 🔎 Explore
+
+I enjoy asking better questions, looking for patterns, and turning information into something meaningful.
+
+		</td>
+		<td width="50%" valign="top">
+
+### 🌱 Grow
+
+Every project is a chance to learn something new and become a little more intentional.
+
+		</td>
+	</tr>
+</table>
+
+<div align="center">
+
+### Thanks for stopping by ✨
+
+*Still learning. Still growing. Still curious.*
+
+</div>
+
+
+
+
+
